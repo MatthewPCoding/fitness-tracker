@@ -10,6 +10,15 @@ A full-stack MERN application for tracking fitness goals, meals, and nutrition w
 - **Smart Suggestions**: Food recommendations based on remaining macros
 - **Manual Override**: Option to set custom calorie/macro targets
 
+- ## Roadmap
+
+**Planned features:**
+- [ ] Progress charts and data visualization
+- [ ] Workout plan templates
+- [ ] Weekly meal prep scheduling
+- [ ] Mobile responsive design improvements
+- [ ] Export progress reports (PDF)
+
 ## Quick Start
 
 ### 1. Prerequisites
